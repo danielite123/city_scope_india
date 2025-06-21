@@ -1,5 +1,5 @@
 # [Your Project Name]
-*Submitted by: [Your Name]*
+*Submitted by: Daniel Favour*
 
 ## 🌟 Live Demo
 🔗 **[View Live Demo](your-demo-link-here)**

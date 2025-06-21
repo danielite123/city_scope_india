@@ -10,11 +10,9 @@
 ![Mobile View](./demo-images/mobile-view.png)
 
 ## 🛠️ Tech Stack
-- Frontend: [e.g., React, Vue.js, Angular]
-- Backend: [if applicable]
-- Database: [if used]
-- Visualization: [e.g., D3.js, Chart.js, Plotly]
-- Deployment: [e.g., Vercel, Netlify, Heroku]
+- Frontend: NextJs.
+- Visualization: Echarts.
+- Deployment: Vercel.
 
 ## ✨ Unique Features
 - **[Feature 1]**: Brief description of what makes it special

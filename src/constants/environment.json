@@ -1,0 +1,542 @@
+[
+  {
+    "city": "Delhi",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 1.25,
+        "renewable_energy_percent": 45.2,
+        "forest_area_percent": 6.8,
+        "air_quality_index": 245.0,
+        "environmental_performance_index": 75.3
+      },
+      "2020": {
+        "co2_emissions_per_capita": 1.15,
+        "renewable_energy_percent": 46.8,
+        "forest_area_percent": 7.0,
+        "air_quality_index": 238.0,
+        "environmental_performance_index": 76.1
+      },
+      "2021": {
+        "co2_emissions_per_capita": 1.12,
+        "renewable_energy_percent": 47.5,
+        "forest_area_percent": 7.1,
+        "air_quality_index": 235.0,
+        "environmental_performance_index": 77.4
+      },
+      "2022": {
+        "co2_emissions_per_capita": 1.08,
+        "renewable_energy_percent": 48.7,
+        "forest_area_percent": 7.2,
+        "air_quality_index": 231.0,
+        "environmental_performance_index": 78.15
+      },
+      "2023": {
+        "co2_emissions_per_capita": 1.05,
+        "renewable_energy_percent": 50.1,
+        "forest_area_percent": 7.4,
+        "air_quality_index": 227.0,
+        "environmental_performance_index": 79.0
+      },
+      "2024": {
+        "co2_emissions_per_capita": 1.02,
+        "renewable_energy_percent": 51.5,
+        "forest_area_percent": 7.6,
+        "air_quality_index": 223.0,
+        "environmental_performance_index": 79.8
+      },
+      "2025": {
+        "co2_emissions_per_capita": 0.98,
+        "renewable_energy_percent": 53.0,
+        "forest_area_percent": 7.8,
+        "air_quality_index": 219.0,
+        "environmental_performance_index": 80.5
+      }
+    }
+  },
+  {
+    "city": "Mumbai",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 2.85,
+        "renewable_energy_percent": 65.0,
+        "forest_area_percent": 11.2,
+        "air_quality_index": 130.0,
+        "environmental_performance_index": 55.2
+      },
+      "2020": {
+        "co2_emissions_per_capita": 2.8,
+        "renewable_energy_percent": 66.5,
+        "forest_area_percent": 11.5,
+        "air_quality_index": 128.0,
+        "environmental_performance_index": 56.0
+      },
+      "2021": {
+        "co2_emissions_per_capita": 2.76,
+        "renewable_energy_percent": 67.4,
+        "forest_area_percent": 11.7,
+        "air_quality_index": 126.0,
+        "environmental_performance_index": 56.8
+      },
+      "2022": {
+        "co2_emissions_per_capita": 2.73,
+        "renewable_energy_percent": 68.3,
+        "forest_area_percent": 11.8,
+        "air_quality_index": 124.0,
+        "environmental_performance_index": 57.57
+      },
+      "2023": {
+        "co2_emissions_per_capita": 2.69,
+        "renewable_energy_percent": 69.5,
+        "forest_area_percent": 12.0,
+        "air_quality_index": 121.0,
+        "environmental_performance_index": 58.3
+      },
+      "2024": {
+        "co2_emissions_per_capita": 2.65,
+        "renewable_energy_percent": 70.7,
+        "forest_area_percent": 12.2,
+        "air_quality_index": 118.0,
+        "environmental_performance_index": 59.1
+      },
+      "2025": {
+        "co2_emissions_per_capita": 2.6,
+        "renewable_energy_percent": 72.0,
+        "forest_area_percent": 12.5,
+        "air_quality_index": 115.0,
+        "environmental_performance_index": 60.0
+      }
+    }
+  },
+  {
+    "city": "Bengaluru",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 2.85,
+        "renewable_energy_percent": 40.5,
+        "forest_area_percent": 23.8,
+        "air_quality_index": 105.0,
+        "environmental_performance_index": 47.5
+      },
+      "2020": {
+        "co2_emissions_per_capita": 2.8,
+        "renewable_energy_percent": 41.8,
+        "forest_area_percent": 24.1,
+        "air_quality_index": 103.0,
+        "environmental_performance_index": 48.3
+      },
+      "2021": {
+        "co2_emissions_per_capita": 2.77,
+        "renewable_energy_percent": 42.7,
+        "forest_area_percent": 24.3,
+        "air_quality_index": 101.0,
+        "environmental_performance_index": 49.2
+      },
+      "2022": {
+        "co2_emissions_per_capita": 2.72,
+        "renewable_energy_percent": 43.6,
+        "forest_area_percent": 24.6,
+        "air_quality_index": 99.0,
+        "environmental_performance_index": 50.07
+      },
+      "2023": {
+        "co2_emissions_per_capita": 2.68,
+        "renewable_energy_percent": 44.8,
+        "forest_area_percent": 24.9,
+        "air_quality_index": 96.0,
+        "environmental_performance_index": 51.0
+      },
+      "2024": {
+        "co2_emissions_per_capita": 2.63,
+        "renewable_energy_percent": 46.0,
+        "forest_area_percent": 25.2,
+        "air_quality_index": 93.0,
+        "environmental_performance_index": 52.0
+      },
+      "2025": {
+        "co2_emissions_per_capita": 2.58,
+        "renewable_energy_percent": 47.3,
+        "forest_area_percent": 25.5,
+        "air_quality_index": 90.0,
+        "environmental_performance_index": 53.0
+      }
+    }
+  },
+  {
+    "city": "Hyderabad",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 2.5,
+        "renewable_energy_percent": 45.3,
+        "forest_area_percent": 7.7,
+        "air_quality_index": 130.0,
+        "environmental_performance_index": 76.2
+      },
+      "2020": {
+        "co2_emissions_per_capita": 2.45,
+        "renewable_energy_percent": 46.5,
+        "forest_area_percent": 7.9,
+        "air_quality_index": 128.0,
+        "environmental_performance_index": 77.0
+      },
+      "2021": {
+        "co2_emissions_per_capita": 2.41,
+        "renewable_energy_percent": 47.6,
+        "forest_area_percent": 8.0,
+        "air_quality_index": 126.0,
+        "environmental_performance_index": 77.8
+      },
+      "2022": {
+        "co2_emissions_per_capita": 2.37,
+        "renewable_energy_percent": 48.6,
+        "forest_area_percent": 8.1,
+        "air_quality_index": 124.0,
+        "environmental_performance_index": 78.5
+      },
+      "2023": {
+        "co2_emissions_per_capita": 2.33,
+        "renewable_energy_percent": 49.8,
+        "forest_area_percent": 8.3,
+        "air_quality_index": 121.0,
+        "environmental_performance_index": 79.3
+      },
+      "2024": {
+        "co2_emissions_per_capita": 2.28,
+        "renewable_energy_percent": 51.0,
+        "forest_area_percent": 8.5,
+        "air_quality_index": 118.0,
+        "environmental_performance_index": 80.1
+      },
+      "2025": {
+        "co2_emissions_per_capita": 2.23,
+        "renewable_energy_percent": 52.3,
+        "forest_area_percent": 8.7,
+        "air_quality_index": 115.0,
+        "environmental_performance_index": 81.0
+      }
+    }
+  },
+  {
+    "city": "Ahmedabad",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 4.4,
+        "renewable_energy_percent": 66.5,
+        "forest_area_percent": 16.8,
+        "air_quality_index": 220.0,
+        "environmental_performance_index": 43.5
+      },
+      "2020": {
+        "co2_emissions_per_capita": 4.35,
+        "renewable_energy_percent": 67.8,
+        "forest_area_percent": 17.1,
+        "air_quality_index": 217.0,
+        "environmental_performance_index": 44.3
+      },
+      "2021": {
+        "co2_emissions_per_capita": 4.3,
+        "renewable_energy_percent": 68.8,
+        "forest_area_percent": 17.3,
+        "air_quality_index": 215.0,
+        "environmental_performance_index": 45.2
+      },
+      "2022": {
+        "co2_emissions_per_capita": 4.23,
+        "renewable_energy_percent": 69.8,
+        "forest_area_percent": 17.6,
+        "air_quality_index": 213.0,
+        "environmental_performance_index": 46.04
+      },
+      "2023": {
+        "co2_emissions_per_capita": 4.15,
+        "renewable_energy_percent": 71.0,
+        "forest_area_percent": 17.9,
+        "air_quality_index": 210.0,
+        "environmental_performance_index": 47.0
+      },
+      "2024": {
+        "co2_emissions_per_capita": 4.08,
+        "renewable_energy_percent": 72.3,
+        "forest_area_percent": 18.2,
+        "air_quality_index": 207.0,
+        "environmental_performance_index": 48.0
+      },
+      "2025": {
+        "co2_emissions_per_capita": 4.0,
+        "renewable_energy_percent": 73.6,
+        "forest_area_percent": 18.5,
+        "air_quality_index": 204.0,
+        "environmental_performance_index": 49.0
+      }
+    }
+  },
+  {
+    "city": "Chennai",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 4.1,
+        "renewable_energy_percent": 54.2,
+        "forest_area_percent": 23.2,
+        "air_quality_index": 183.0,
+        "environmental_performance_index": 69.5
+      },
+      "2020": {
+        "co2_emissions_per_capita": 4.05,
+        "renewable_energy_percent": 55.5,
+        "forest_area_percent": 23.5,
+        "air_quality_index": 181.0,
+        "environmental_performance_index": 70.3
+      },
+      "2021": {
+        "co2_emissions_per_capita": 4.0,
+        "renewable_energy_percent": 56.5,
+        "forest_area_percent": 23.7,
+        "air_quality_index": 179.0,
+        "environmental_performance_index": 71.1
+      },
+      "2022": {
+        "co2_emissions_per_capita": 3.92,
+        "renewable_energy_percent": 57.5,
+        "forest_area_percent": 23.9,
+        "air_quality_index": 177.0,
+        "environmental_performance_index": 71.81
+      },
+      "2023": {
+        "co2_emissions_per_capita": 3.85,
+        "renewable_energy_percent": 58.8,
+        "forest_area_percent": 24.2,
+        "air_quality_index": 174.0,
+        "environmental_performance_index": 72.7
+      },
+      "2024": {
+        "co2_emissions_per_capita": 3.78,
+        "renewable_energy_percent": 60.1,
+        "forest_area_percent": 24.5,
+        "air_quality_index": 171.0,
+        "environmental_performance_index": 73.6
+      },
+      "2025": {
+        "co2_emissions_per_capita": 3.7,
+        "renewable_energy_percent": 61.5,
+        "forest_area_percent": 24.8,
+        "air_quality_index": 168.0,
+        "environmental_performance_index": 74.5
+      }
+    }
+  },
+  {
+    "city": "Kolkata",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 0.9,
+        "renewable_energy_percent": 49.5,
+        "forest_area_percent": 32.5,
+        "air_quality_index": 203.0,
+        "environmental_performance_index": 47.8
+      },
+      "2020": {
+        "co2_emissions_per_capita": 0.88,
+        "renewable_energy_percent": 50.5,
+        "forest_area_percent": 32.8,
+        "air_quality_index": 201.0,
+        "environmental_performance_index": 48.6
+      },
+      "2021": {
+        "co2_emissions_per_capita": 0.86,
+        "renewable_energy_percent": 51.4,
+        "forest_area_percent": 33.0,
+        "air_quality_index": 199.0,
+        "environmental_performance_index": 49.5
+      },
+      "2022": {
+        "co2_emissions_per_capita": 0.84,
+        "renewable_energy_percent": 52.3,
+        "forest_area_percent": 33.3,
+        "air_quality_index": 197.0,
+        "environmental_performance_index": 50.4
+      },
+      "2023": {
+        "co2_emissions_per_capita": 0.82,
+        "renewable_energy_percent": 53.5,
+        "forest_area_percent": 33.6,
+        "air_quality_index": 194.0,
+        "environmental_performance_index": 51.3
+      },
+      "2024": {
+        "co2_emissions_per_capita": 0.8,
+        "renewable_energy_percent": 54.7,
+        "forest_area_percent": 33.9,
+        "air_quality_index": 191.0,
+        "environmental_performance_index": 52.2
+      },
+      "2025": {
+        "co2_emissions_per_capita": 0.78,
+        "renewable_energy_percent": 56.0,
+        "forest_area_percent": 34.2,
+        "air_quality_index": 188.0,
+        "environmental_performance_index": 53.1
+      }
+    }
+  },
+  {
+    "city": "Pune",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 3.55,
+        "renewable_energy_percent": 58.5,
+        "forest_area_percent": 5.2,
+        "air_quality_index": 191.0,
+        "environmental_performance_index": 40.8
+      },
+      "2020": {
+        "co2_emissions_per_capita": 3.5,
+        "renewable_energy_percent": 59.8,
+        "forest_area_percent": 5.3,
+        "air_quality_index": 189.0,
+        "environmental_performance_index": 41.6
+      },
+      "2021": {
+        "co2_emissions_per_capita": 3.46,
+        "renewable_energy_percent": 60.7,
+        "forest_area_percent": 5.4,
+        "air_quality_index": 187.0,
+        "environmental_performance_index": 42.4
+      },
+      "2022": {
+        "co2_emissions_per_capita": 3.41,
+        "renewable_energy_percent": 61.7,
+        "forest_area_percent": 5.6,
+        "air_quality_index": 185.0,
+        "environmental_performance_index": 43.18
+      },
+      "2023": {
+        "co2_emissions_per_capita": 3.35,
+        "renewable_energy_percent": 63.0,
+        "forest_area_percent": 5.8,
+        "air_quality_index": 182.0,
+        "environmental_performance_index": 44.1
+      },
+      "2024": {
+        "co2_emissions_per_capita": 3.3,
+        "renewable_energy_percent": 64.3,
+        "forest_area_percent": 6.0,
+        "air_quality_index": 179.0,
+        "environmental_performance_index": 45.0
+      },
+      "2025": {
+        "co2_emissions_per_capita": 3.24,
+        "renewable_energy_percent": 65.7,
+        "forest_area_percent": 6.2,
+        "air_quality_index": 176.0,
+        "environmental_performance_index": 46.0
+      }
+    }
+  },
+  {
+    "city": "Jaipur",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 3.45,
+        "renewable_energy_percent": 42.5,
+        "forest_area_percent": 29.2,
+        "air_quality_index": 88.0,
+        "environmental_performance_index": 58.3
+      },
+      "2020": {
+        "co2_emissions_per_capita": 3.4,
+        "renewable_energy_percent": 43.8,
+        "forest_area_percent": 29.5,
+        "air_quality_index": 86.0,
+        "environmental_performance_index": 59.1
+      },
+      "2021": {
+        "co2_emissions_per_capita": 3.36,
+        "renewable_energy_percent": 44.8,
+        "forest_area_percent": 29.7,
+        "air_quality_index": 85.0,
+        "environmental_performance_index": 59.9
+      },
+      "2022": {
+        "co2_emissions_per_capita": 3.29,
+        "renewable_energy_percent": 45.8,
+        "forest_area_percent": 29.9,
+        "air_quality_index": 83.0,
+        "environmental_performance_index": 60.63
+      },
+      "2023": {
+        "co2_emissions_per_capita": 3.22,
+        "renewable_energy_percent": 47.0,
+        "forest_area_percent": 30.2,
+        "air_quality_index": 81.0,
+        "environmental_performance_index": 61.5
+      },
+      "2024": {
+        "co2_emissions_per_capita": 3.15,
+        "renewable_energy_percent": 48.3,
+        "forest_area_percent": 30.5,
+        "air_quality_index": 79.0,
+        "environmental_performance_index": 62.4
+      },
+      "2025": {
+        "co2_emissions_per_capita": 3.08,
+        "renewable_energy_percent": 49.6,
+        "forest_area_percent": 30.8,
+        "air_quality_index": 77.0,
+        "environmental_performance_index": 63.3
+      }
+    }
+  },
+  {
+    "city": "Lucknow",
+    "years": {
+      "2019": {
+        "co2_emissions_per_capita": 4.2,
+        "renewable_energy_percent": 14.0,
+        "forest_area_percent": 11.8,
+        "air_quality_index": 45.0,
+        "environmental_performance_index": 73.8
+      },
+      "2020": {
+        "co2_emissions_per_capita": 4.15,
+        "renewable_energy_percent": 14.8,
+        "forest_area_percent": 11.9,
+        "air_quality_index": 43.0,
+        "environmental_performance_index": 74.6
+      },
+      "2021": {
+        "co2_emissions_per_capita": 4.1,
+        "renewable_energy_percent": 15.6,
+        "forest_area_percent": 12.0,
+        "air_quality_index": 42.0,
+        "environmental_performance_index": 75.4
+      },
+      "2022": {
+        "co2_emissions_per_capita": 4.05,
+        "renewable_energy_percent": 16.4,
+        "forest_area_percent": 12.2,
+        "air_quality_index": 40.0,
+        "environmental_performance_index": 76.1
+      },
+      "2023": {
+        "co2_emissions_per_capita": 3.98,
+        "renewable_energy_percent": 17.5,
+        "forest_area_percent": 12.4,
+        "air_quality_index": 38.0,
+        "environmental_performance_index": 77.0
+      },
+      "2024": {
+        "co2_emissions_per_capita": 3.92,
+        "renewable_energy_percent": 18.6,
+        "forest_area_percent": 12.6,
+        "air_quality_index": 36.0,
+        "environmental_performance_index": 78.0
+      },
+      "2025": {
+        "co2_emissions_per_capita": 3.85,
+        "renewable_energy_percent": 19.8,
+        "forest_area_percent": 12.8,
+        "air_quality_index": 34.0,
+        "environmental_performance_index": 79.0
+      }
+    }
+  }
+]

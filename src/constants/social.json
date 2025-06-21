@@ -1,0 +1,752 @@
+[
+  {
+    "city": "Delhi",
+    "years": {
+      "2019": {
+        "hdi": 0.798,
+        "life_expectancy": 69.8,
+        "infant_mortality_rate": 38.2,
+        "literacy_rate": 86.2,
+        "education_index": 0.542,
+        "gender_inequality_index": 0.468,
+        "population_growth_rate": 2.35,
+        "urban_population_percent": 66.5
+      },
+      "2020": {
+        "hdi": 0.802,
+        "life_expectancy": 70.0,
+        "infant_mortality_rate": 37.1,
+        "literacy_rate": 86.7,
+        "education_index": 0.548,
+        "gender_inequality_index": 0.462,
+        "population_growth_rate": 2.31,
+        "urban_population_percent": 67.1
+      },
+      "2021": {
+        "hdi": 0.806,
+        "life_expectancy": 70.3,
+        "infant_mortality_rate": 36.0,
+        "literacy_rate": 87.3,
+        "education_index": 0.553,
+        "gender_inequality_index": 0.457,
+        "population_growth_rate": 2.26,
+        "urban_population_percent": 67.7
+      },
+      "2022": {
+        "hdi": 0.811,
+        "life_expectancy": 70.6,
+        "infant_mortality_rate": 34.9,
+        "literacy_rate": 87.9,
+        "education_index": 0.557,
+        "gender_inequality_index": 0.453,
+        "population_growth_rate": 2.21,
+        "urban_population_percent": 68.3
+      },
+      "2023": {
+        "hdi": 0.815,
+        "life_expectancy": 70.9,
+        "infant_mortality_rate": 33.8,
+        "literacy_rate": 88.5,
+        "education_index": 0.562,
+        "gender_inequality_index": 0.448,
+        "population_growth_rate": 2.16,
+        "urban_population_percent": 68.9
+      },
+      "2024": {
+        "hdi": 0.819,
+        "life_expectancy": 71.2,
+        "infant_mortality_rate": 32.7,
+        "literacy_rate": 89.1,
+        "education_index": 0.567,
+        "gender_inequality_index": 0.443,
+        "population_growth_rate": 2.11,
+        "urban_population_percent": 69.5
+      },
+      "2025": {
+        "hdi": 0.823,
+        "life_expectancy": 71.5,
+        "infant_mortality_rate": 31.6,
+        "literacy_rate": 89.7,
+        "education_index": 0.572,
+        "gender_inequality_index": 0.438,
+        "population_growth_rate": 2.06,
+        "urban_population_percent": 70.1
+      }
+    }
+  },
+  {
+    "city": "Mumbai",
+    "years": {
+      "2019": {
+        "hdi": 0.598,
+        "life_expectancy": 70.6,
+        "infant_mortality_rate": 42.5,
+        "literacy_rate": 78.8,
+        "education_index": 0.661,
+        "gender_inequality_index": 0.298,
+        "population_growth_rate": 2.53,
+        "urban_population_percent": 98.2
+      },
+      "2020": {
+        "hdi": 0.603,
+        "life_expectancy": 70.8,
+        "infant_mortality_rate": 41.3,
+        "literacy_rate": 79.3,
+        "education_index": 0.666,
+        "gender_inequality_index": 0.293,
+        "population_growth_rate": 2.48,
+        "urban_population_percent": 98.3
+      },
+      "2021": {
+        "hdi": 0.608,
+        "life_expectancy": 71.1,
+        "infant_mortality_rate": 40.1,
+        "literacy_rate": 79.9,
+        "education_index": 0.671,
+        "gender_inequality_index": 0.289,
+        "population_growth_rate": 2.43,
+        "urban_population_percent": 98.4
+      },
+      "2022": {
+        "hdi": 0.613,
+        "life_expectancy": 71.4,
+        "infant_mortality_rate": 39.0,
+        "literacy_rate": 80.5,
+        "education_index": 0.676,
+        "gender_inequality_index": 0.285,
+        "population_growth_rate": 2.39,
+        "urban_population_percent": 98.6
+      },
+      "2023": {
+        "hdi": 0.618,
+        "life_expectancy": 71.7,
+        "infant_mortality_rate": 37.9,
+        "literacy_rate": 81.1,
+        "education_index": 0.681,
+        "gender_inequality_index": 0.281,
+        "population_growth_rate": 2.34,
+        "urban_population_percent": 98.7
+      },
+      "2024": {
+        "hdi": 0.623,
+        "life_expectancy": 72.0,
+        "infant_mortality_rate": 36.8,
+        "literacy_rate": 81.7,
+        "education_index": 0.686,
+        "gender_inequality_index": 0.277,
+        "population_growth_rate": 2.29,
+        "urban_population_percent": 98.8
+      },
+      "2025": {
+        "hdi": 0.628,
+        "life_expectancy": 72.3,
+        "infant_mortality_rate": 35.7,
+        "literacy_rate": 82.3,
+        "education_index": 0.691,
+        "gender_inequality_index": 0.273,
+        "population_growth_rate": 2.24,
+        "urban_population_percent": 98.9
+      }
+    }
+  },
+  {
+    "city": "Bengaluru",
+    "years": {
+      "2019": {
+        "hdi": 0.648,
+        "life_expectancy": 66.5,
+        "infant_mortality_rate": 39.5,
+        "literacy_rate": 81.8,
+        "education_index": 0.541,
+        "gender_inequality_index": 0.501,
+        "population_growth_rate": 2.51,
+        "urban_population_percent": 98.9
+      },
+      "2020": {
+        "hdi": 0.653,
+        "life_expectancy": 66.8,
+        "infant_mortality_rate": 38.7,
+        "literacy_rate": 82.3,
+        "education_index": 0.546,
+        "gender_inequality_index": 0.495,
+        "population_growth_rate": 2.47,
+        "urban_population_percent": 99.0
+      },
+      "2021": {
+        "hdi": 0.659,
+        "life_expectancy": 67.2,
+        "infant_mortality_rate": 37.8,
+        "literacy_rate": 82.8,
+        "education_index": 0.551,
+        "gender_inequality_index": 0.49,
+        "population_growth_rate": 2.42,
+        "urban_population_percent": 99.1
+      },
+      "2022": {
+        "hdi": 0.665,
+        "life_expectancy": 67.7,
+        "infant_mortality_rate": 36.8,
+        "literacy_rate": 83.4,
+        "education_index": 0.556,
+        "gender_inequality_index": 0.486,
+        "population_growth_rate": 2.37,
+        "urban_population_percent": 99.3
+      },
+      "2023": {
+        "hdi": 0.671,
+        "life_expectancy": 68.1,
+        "infant_mortality_rate": 35.9,
+        "literacy_rate": 84.0,
+        "education_index": 0.561,
+        "gender_inequality_index": 0.481,
+        "population_growth_rate": 2.32,
+        "urban_population_percent": 99.4
+      },
+      "2024": {
+        "hdi": 0.677,
+        "life_expectancy": 68.5,
+        "infant_mortality_rate": 35.0,
+        "literacy_rate": 84.6,
+        "education_index": 0.566,
+        "gender_inequality_index": 0.477,
+        "population_growth_rate": 2.27,
+        "urban_population_percent": 99.5
+      },
+      "2025": {
+        "hdi": 0.683,
+        "life_expectancy": 68.9,
+        "infant_mortality_rate": 34.1,
+        "literacy_rate": 85.2,
+        "education_index": 0.571,
+        "gender_inequality_index": 0.472,
+        "population_growth_rate": 2.22,
+        "urban_population_percent": 99.6
+      }
+    }
+  },
+  {
+    "city": "Hyderabad",
+    "years": {
+      "2019": {
+        "hdi": 0.715,
+        "life_expectancy": 72.8,
+        "infant_mortality_rate": 9.5,
+        "literacy_rate": 93.2,
+        "education_index": 0.815,
+        "gender_inequality_index": 0.372,
+        "population_growth_rate": 1.49,
+        "urban_population_percent": 87.1
+      },
+      "2020": {
+        "hdi": 0.72,
+        "life_expectancy": 73.0,
+        "infant_mortality_rate": 9.0,
+        "literacy_rate": 93.7,
+        "education_index": 0.82,
+        "gender_inequality_index": 0.367,
+        "population_growth_rate": 1.45,
+        "urban_population_percent": 87.5
+      },
+      "2021": {
+        "hdi": 0.726,
+        "life_expectancy": 73.3,
+        "infant_mortality_rate": 8.4,
+        "literacy_rate": 94.3,
+        "education_index": 0.825,
+        "gender_inequality_index": 0.362,
+        "population_growth_rate": 1.4,
+        "urban_population_percent": 87.9
+      },
+      "2022": {
+        "hdi": 0.732,
+        "life_expectancy": 73.6,
+        "infant_mortality_rate": 7.8,
+        "literacy_rate": 94.9,
+        "education_index": 0.83,
+        "gender_inequality_index": 0.357,
+        "population_growth_rate": 1.35,
+        "urban_population_percent": 88.3
+      },
+      "2023": {
+        "hdi": 0.738,
+        "life_expectancy": 73.9,
+        "infant_mortality_rate": 7.2,
+        "literacy_rate": 95.5,
+        "education_index": 0.835,
+        "gender_inequality_index": 0.352,
+        "population_growth_rate": 1.3,
+        "urban_population_percent": 88.7
+      },
+      "2024": {
+        "hdi": 0.744,
+        "life_expectancy": 74.2,
+        "infant_mortality_rate": 6.6,
+        "literacy_rate": 96.1,
+        "education_index": 0.84,
+        "gender_inequality_index": 0.347,
+        "population_growth_rate": 1.25,
+        "urban_population_percent": 89.1
+      },
+      "2025": {
+        "hdi": 0.75,
+        "life_expectancy": 74.5,
+        "infant_mortality_rate": 6.0,
+        "literacy_rate": 96.7,
+        "education_index": 0.845,
+        "gender_inequality_index": 0.342,
+        "population_growth_rate": 1.2,
+        "urban_population_percent": 89.5
+      }
+    }
+  },
+  {
+    "city": "Ahmedabad",
+    "years": {
+      "2019": {
+        "hdi": 0.744,
+        "life_expectancy": 71.6,
+        "infant_mortality_rate": 40.2,
+        "literacy_rate": 72.6,
+        "education_index": 0.55,
+        "gender_inequality_index": 0.218,
+        "population_growth_rate": 1.92,
+        "urban_population_percent": 88.4
+      },
+      "2020": {
+        "hdi": 0.749,
+        "life_expectancy": 71.9,
+        "infant_mortality_rate": 39.2,
+        "literacy_rate": 73.3,
+        "education_index": 0.555,
+        "gender_inequality_index": 0.213,
+        "population_growth_rate": 1.87,
+        "urban_population_percent": 88.8
+      },
+      "2021": {
+        "hdi": 0.755,
+        "life_expectancy": 72.2,
+        "infant_mortality_rate": 38.1,
+        "literacy_rate": 74.1,
+        "education_index": 0.56,
+        "gender_inequality_index": 0.208,
+        "population_growth_rate": 1.82,
+        "urban_population_percent": 89.2
+      },
+      "2022": {
+        "hdi": 0.761,
+        "life_expectancy": 72.6,
+        "infant_mortality_rate": 36.9,
+        "literacy_rate": 74.9,
+        "education_index": 0.565,
+        "gender_inequality_index": 0.203,
+        "population_growth_rate": 1.78,
+        "urban_population_percent": 89.6
+      },
+      "2023": {
+        "hdi": 0.767,
+        "life_expectancy": 72.9,
+        "infant_mortality_rate": 35.8,
+        "literacy_rate": 75.7,
+        "education_index": 0.57,
+        "gender_inequality_index": 0.198,
+        "population_growth_rate": 1.73,
+        "urban_population_percent": 90.0
+      },
+      "2024": {
+        "hdi": 0.773,
+        "life_expectancy": 73.2,
+        "infant_mortality_rate": 34.7,
+        "literacy_rate": 76.5,
+        "education_index": 0.575,
+        "gender_inequality_index": 0.193,
+        "population_growth_rate": 1.68,
+        "urban_population_percent": 90.4
+      },
+      "2025": {
+        "hdi": 0.779,
+        "life_expectancy": 73.5,
+        "infant_mortality_rate": 33.6,
+        "literacy_rate": 77.3,
+        "education_index": 0.58,
+        "gender_inequality_index": 0.188,
+        "population_growth_rate": 1.63,
+        "urban_population_percent": 90.8
+      }
+    }
+  },
+  {
+    "city": "Chennai",
+    "years": {
+      "2019": {
+        "hdi": 0.71,
+        "life_expectancy": 77.6,
+        "infant_mortality_rate": 7.8,
+        "literacy_rate": 90.0,
+        "education_index": 0.559,
+        "gender_inequality_index": 0.389,
+        "population_growth_rate": 2.12,
+        "urban_population_percent": 74.8
+      },
+      "2020": {
+        "hdi": 0.715,
+        "life_expectancy": 77.8,
+        "infant_mortality_rate": 7.4,
+        "literacy_rate": 90.5,
+        "education_index": 0.564,
+        "gender_inequality_index": 0.384,
+        "population_growth_rate": 2.07,
+        "urban_population_percent": 75.2
+      },
+      "2021": {
+        "hdi": 0.721,
+        "life_expectancy": 78.1,
+        "infant_mortality_rate": 6.9,
+        "literacy_rate": 91.0,
+        "education_index": 0.569,
+        "gender_inequality_index": 0.379,
+        "population_growth_rate": 2.02,
+        "urban_population_percent": 75.6
+      },
+      "2022": {
+        "hdi": 0.727,
+        "life_expectancy": 78.5,
+        "infant_mortality_rate": 6.3,
+        "literacy_rate": 91.5,
+        "education_index": 0.574,
+        "gender_inequality_index": 0.374,
+        "population_growth_rate": 1.98,
+        "urban_population_percent": 76.0
+      },
+      "2023": {
+        "hdi": 0.733,
+        "life_expectancy": 78.8,
+        "infant_mortality_rate": 5.8,
+        "literacy_rate": 92.0,
+        "education_index": 0.579,
+        "gender_inequality_index": 0.369,
+        "population_growth_rate": 1.93,
+        "urban_population_percent": 76.4
+      },
+      "2024": {
+        "hdi": 0.739,
+        "life_expectancy": 79.1,
+        "infant_mortality_rate": 5.3,
+        "literacy_rate": 92.5,
+        "education_index": 0.584,
+        "gender_inequality_index": 0.364,
+        "population_growth_rate": 1.88,
+        "urban_population_percent": 76.8
+      },
+      "2025": {
+        "hdi": 0.745,
+        "life_expectancy": 79.4,
+        "infant_mortality_rate": 4.8,
+        "literacy_rate": 93.0,
+        "education_index": 0.589,
+        "gender_inequality_index": 0.359,
+        "population_growth_rate": 1.83,
+        "urban_population_percent": 77.2
+      }
+    }
+  },
+  {
+    "city": "Kolkata",
+    "years": {
+      "2019": {
+        "hdi": 0.83,
+        "life_expectancy": 68.6,
+        "infant_mortality_rate": 25.0,
+        "literacy_rate": 72.8,
+        "education_index": 0.685,
+        "gender_inequality_index": 0.522,
+        "population_growth_rate": 1.47,
+        "urban_population_percent": 91.0
+      },
+      "2020": {
+        "hdi": 0.835,
+        "life_expectancy": 68.8,
+        "infant_mortality_rate": 24.1,
+        "literacy_rate": 73.2,
+        "education_index": 0.69,
+        "gender_inequality_index": 0.516,
+        "population_growth_rate": 1.43,
+        "urban_population_percent": 91.2
+      },
+      "2021": {
+        "hdi": 0.841,
+        "life_expectancy": 69.1,
+        "infant_mortality_rate": 23.2,
+        "literacy_rate": 73.8,
+        "education_index": 0.695,
+        "gender_inequality_index": 0.511,
+        "population_growth_rate": 1.38,
+        "urban_population_percent": 91.5
+      },
+      "2022": {
+        "hdi": 0.847,
+        "life_expectancy": 69.4,
+        "infant_mortality_rate": 22.2,
+        "literacy_rate": 74.4,
+        "education_index": 0.7,
+        "gender_inequality_index": 0.507,
+        "population_growth_rate": 1.33,
+        "urban_population_percent": 91.8
+      },
+      "2023": {
+        "hdi": 0.853,
+        "life_expectancy": 69.7,
+        "infant_mortality_rate": 21.3,
+        "literacy_rate": 75.0,
+        "education_index": 0.705,
+        "gender_inequality_index": 0.502,
+        "population_growth_rate": 1.28,
+        "urban_population_percent": 92.1
+      },
+      "2024": {
+        "hdi": 0.859,
+        "life_expectancy": 70.0,
+        "infant_mortality_rate": 20.4,
+        "literacy_rate": 75.6,
+        "education_index": 0.71,
+        "gender_inequality_index": 0.497,
+        "population_growth_rate": 1.23,
+        "urban_population_percent": 92.4
+      },
+      "2025": {
+        "hdi": 0.865,
+        "life_expectancy": 70.3,
+        "infant_mortality_rate": 19.5,
+        "literacy_rate": 76.2,
+        "education_index": 0.715,
+        "gender_inequality_index": 0.492,
+        "population_growth_rate": 1.18,
+        "urban_population_percent": 92.7
+      }
+    }
+  },
+  {
+    "city": "Pune",
+    "years": {
+      "2019": {
+        "hdi": 0.698,
+        "life_expectancy": 65.0,
+        "infant_mortality_rate": 8.2,
+        "literacy_rate": 86.1,
+        "education_index": 0.802,
+        "gender_inequality_index": 0.243,
+        "population_growth_rate": 2.51,
+        "urban_population_percent": 66.8
+      },
+      "2020": {
+        "hdi": 0.703,
+        "life_expectancy": 65.3,
+        "infant_mortality_rate": 7.9,
+        "literacy_rate": 86.6,
+        "education_index": 0.807,
+        "gender_inequality_index": 0.238,
+        "population_growth_rate": 2.46,
+        "urban_population_percent": 67.1
+      },
+      "2021": {
+        "hdi": 0.709,
+        "life_expectancy": 65.7,
+        "infant_mortality_rate": 7.5,
+        "literacy_rate": 87.2,
+        "education_index": 0.812,
+        "gender_inequality_index": 0.233,
+        "population_growth_rate": 2.41,
+        "urban_population_percent": 67.6
+      },
+      "2022": {
+        "hdi": 0.715,
+        "life_expectancy": 66.2,
+        "infant_mortality_rate": 6.7,
+        "literacy_rate": 87.8,
+        "education_index": 0.817,
+        "gender_inequality_index": 0.228,
+        "population_growth_rate": 2.37,
+        "urban_population_percent": 68.2
+      },
+      "2023": {
+        "hdi": 0.721,
+        "life_expectancy": 66.6,
+        "infant_mortality_rate": 6.3,
+        "literacy_rate": 88.4,
+        "education_index": 0.822,
+        "gender_inequality_index": 0.223,
+        "population_growth_rate": 2.32,
+        "urban_population_percent": 68.7
+      },
+      "2024": {
+        "hdi": 0.727,
+        "life_expectancy": 67.0,
+        "infant_mortality_rate": 5.9,
+        "literacy_rate": 89.0,
+        "education_index": 0.827,
+        "gender_inequality_index": 0.218,
+        "population_growth_rate": 2.27,
+        "urban_population_percent": 69.2
+      },
+      "2025": {
+        "hdi": 0.733,
+        "life_expectancy": 67.4,
+        "infant_mortality_rate": 5.5,
+        "literacy_rate": 89.6,
+        "education_index": 0.832,
+        "gender_inequality_index": 0.213,
+        "population_growth_rate": 2.22,
+        "urban_population_percent": 69.7
+      }
+    }
+  },
+  {
+    "city": "Jaipur",
+    "years": {
+      "2019": {
+        "hdi": 0.639,
+        "life_expectancy": 74.2,
+        "infant_mortality_rate": 25.3,
+        "literacy_rate": 76.6,
+        "education_index": 0.551,
+        "gender_inequality_index": 0.569,
+        "population_growth_rate": 1.95,
+        "urban_population_percent": 61.2
+      },
+      "2020": {
+        "hdi": 0.644,
+        "life_expectancy": 74.4,
+        "infant_mortality_rate": 24.5,
+        "literacy_rate": 77.1,
+        "education_index": 0.556,
+        "gender_inequality_index": 0.564,
+        "population_growth_rate": 1.9,
+        "urban_population_percent": 61.7
+      },
+      "2021": {
+        "hdi": 0.65,
+        "life_expectancy": 74.7,
+        "infant_mortality_rate": 23.7,
+        "literacy_rate": 77.7,
+        "education_index": 0.561,
+        "gender_inequality_index": 0.559,
+        "population_growth_rate": 1.85,
+        "urban_population_percent": 62.1
+      },
+      "2022": {
+        "hdi": 0.656,
+        "life_expectancy": 75.0,
+        "infant_mortality_rate": 22.5,
+        "literacy_rate": 78.3,
+        "education_index": 0.566,
+        "gender_inequality_index": 0.554,
+        "population_growth_rate": 1.81,
+        "urban_population_percent": 62.6
+      },
+      "2023": {
+        "hdi": 0.662,
+        "life_expectancy": 75.3,
+        "infant_mortality_rate": 21.8,
+        "literacy_rate": 78.9,
+        "education_index": 0.571,
+        "gender_inequality_index": 0.549,
+        "population_growth_rate": 1.76,
+        "urban_population_percent": 63.0
+      },
+      "2024": {
+        "hdi": 0.668,
+        "life_expectancy": 75.6,
+        "infant_mortality_rate": 21.1,
+        "literacy_rate": 79.5,
+        "education_index": 0.576,
+        "gender_inequality_index": 0.544,
+        "population_growth_rate": 1.71,
+        "urban_population_percent": 63.5
+      },
+      "2025": {
+        "hdi": 0.674,
+        "life_expectancy": 75.9,
+        "infant_mortality_rate": 20.4,
+        "literacy_rate": 80.1,
+        "education_index": 0.581,
+        "gender_inequality_index": 0.539,
+        "population_growth_rate": 1.66,
+        "urban_population_percent": 63.9
+      }
+    }
+  },
+  {
+    "city": "Lucknow",
+    "years": {
+      "2019": {
+        "hdi": 0.745,
+        "life_expectancy": 77.2,
+        "infant_mortality_rate": 7.7,
+        "literacy_rate": 79.8,
+        "education_index": 0.513,
+        "gender_inequality_index": 0.553,
+        "population_growth_rate": 2.79,
+        "urban_population_percent": 68.4
+      },
+      "2020": {
+        "hdi": 0.75,
+        "life_expectancy": 77.4,
+        "infant_mortality_rate": 7.3,
+        "literacy_rate": 80.3,
+        "education_index": 0.518,
+        "gender_inequality_index": 0.548,
+        "population_growth_rate": 2.74,
+        "urban_population_percent": 68.8
+      },
+      "2021": {
+        "hdi": 0.756,
+        "life_expectancy": 77.7,
+        "infant_mortality_rate": 6.8,
+        "literacy_rate": 80.9,
+        "education_index": 0.523,
+        "gender_inequality_index": 0.543,
+        "population_growth_rate": 2.69,
+        "urban_population_percent": 69.3
+      },
+      "2022": {
+        "hdi": 0.762,
+        "life_expectancy": 78.0,
+        "infant_mortality_rate": 6.2,
+        "literacy_rate": 81.5,
+        "education_index": 0.528,
+        "gender_inequality_index": 0.538,
+        "population_growth_rate": 2.65,
+        "urban_population_percent": 69.8
+      },
+      "2023": {
+        "hdi": 0.768,
+        "life_expectancy": 78.3,
+        "infant_mortality_rate": 5.7,
+        "literacy_rate": 82.1,
+        "education_index": 0.533,
+        "gender_inequality_index": 0.533,
+        "population_growth_rate": 2.6,
+        "urban_population_percent": 70.3
+      },
+      "2024": {
+        "hdi": 0.774,
+        "life_expectancy": 78.6,
+        "infant_mortality_rate": 5.2,
+        "literacy_rate": 82.7,
+        "education_index": 0.538,
+        "gender_inequality_index": 0.528,
+        "population_growth_rate": 2.55,
+        "urban_population_percent": 70.8
+      },
+      "2025": {
+        "hdi": 0.78,
+        "life_expectancy": 78.9,
+        "infant_mortality_rate": 4.7,
+        "literacy_rate": 83.3,
+        "education_index": 0.543,
+        "gender_inequality_index": 0.523,
+        "population_growth_rate": 2.5,
+        "urban_population_percent": 71.3
+      }
+    }
+  }
+]

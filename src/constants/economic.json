@@ -1,0 +1,752 @@
+[
+  {
+    "city": "Delhi",
+    "years": {
+      "2019": {
+        "gdp": 55000000000.0,
+        "gni": 72000000000.0,
+        "gdp_per_capita": 1950.25,
+        "unemployment_rate": 12.45,
+        "inflation_rate": 3.15,
+        "foreign_direct_investment": 2000000000.0,
+        "export_import_ratio": 0.55,
+        "public_debt_percent_gdp": 38.72
+      },
+      "2020": {
+        "gdp": 52000000000.0,
+        "gni": 69000000000.0,
+        "gdp_per_capita": 1850.5,
+        "unemployment_rate": 14.2,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 1800000000.0,
+        "export_import_ratio": 0.52,
+        "public_debt_percent_gdp": 42.15
+      },
+      "2021": {
+        "gdp": 57000000000.0,
+        "gni": 78000000000.0,
+        "gdp_per_capita": 2000.75,
+        "unemployment_rate": 12.8,
+        "inflation_rate": 2.95,
+        "foreign_direct_investment": 2100000000.0,
+        "export_import_ratio": 0.58,
+        "public_debt_percent_gdp": 40.25
+      },
+      "2022": {
+        "gdp": 60871319743.24,
+        "gni": 82505899930.07,
+        "gdp_per_capita": 2134.5,
+        "unemployment_rate": 11.68,
+        "inflation_rate": 2.45,
+        "foreign_direct_investment": 2315915484.37,
+        "export_import_ratio": 0.6,
+        "public_debt_percent_gdp": 41.82
+      },
+      "2023": {
+        "gdp": 64000000000.0,
+        "gni": 86000000000.0,
+        "gdp_per_capita": 2250.3,
+        "unemployment_rate": 10.5,
+        "inflation_rate": 3.05,
+        "foreign_direct_investment": 2500000000.0,
+        "export_import_ratio": 0.65,
+        "public_debt_percent_gdp": 40.1
+      },
+      "2024": {
+        "gdp": 67000000000.0,
+        "gni": 90000000000.0,
+        "gdp_per_capita": 2350.75,
+        "unemployment_rate": 9.8,
+        "inflation_rate": 3.25,
+        "foreign_direct_investment": 2700000000.0,
+        "export_import_ratio": 0.68,
+        "public_debt_percent_gdp": 39.45
+      },
+      "2025": {
+        "gdp": 71000000000.0,
+        "gni": 95000000000.0,
+        "gdp_per_capita": 2500.25,
+        "unemployment_rate": 9.2,
+        "inflation_rate": 3.5,
+        "foreign_direct_investment": 3000000000.0,
+        "export_import_ratio": 0.72,
+        "public_debt_percent_gdp": 38.75
+      }
+    }
+  },
+  {
+    "city": "Mumbai",
+    "years": {
+      "2019": {
+        "gdp": 56000000000.0,
+        "gni": 68000000000.0,
+        "gdp_per_capita": 7800.25,
+        "unemployment_rate": 7.45,
+        "inflation_rate": 5.15,
+        "foreign_direct_investment": 2000000000.0,
+        "export_import_ratio": 0.7,
+        "public_debt_percent_gdp": 48.72
+      },
+      "2020": {
+        "gdp": 54000000000.0,
+        "gni": 65000000000.0,
+        "gdp_per_capita": 7600.5,
+        "unemployment_rate": 8.2,
+        "inflation_rate": 6.25,
+        "foreign_direct_investment": 1900000000.0,
+        "export_import_ratio": 0.68,
+        "public_debt_percent_gdp": 52.15
+      },
+      "2021": {
+        "gdp": 58000000000.0,
+        "gni": 70000000000.0,
+        "gdp_per_capita": 8000.75,
+        "unemployment_rate": 7.3,
+        "inflation_rate": 5.95,
+        "foreign_direct_investment": 2100000000.0,
+        "export_import_ratio": 0.72,
+        "public_debt_percent_gdp": 49.25
+      },
+      "2022": {
+        "gdp": 60841164402.77,
+        "gni": 72969955751.01,
+        "gdp_per_capita": 8258.69,
+        "unemployment_rate": 6.98,
+        "inflation_rate": 6.61,
+        "foreign_direct_investment": 2288752682.43,
+        "export_import_ratio": 0.75,
+        "public_debt_percent_gdp": 50.05
+      },
+      "2023": {
+        "gdp": 64000000000.0,
+        "gni": 77000000000.0,
+        "gdp_per_capita": 8600.3,
+        "unemployment_rate": 6.5,
+        "inflation_rate": 5.85,
+        "foreign_direct_investment": 2500000000.0,
+        "export_import_ratio": 0.78,
+        "public_debt_percent_gdp": 49.1
+      },
+      "2024": {
+        "gdp": 68000000000.0,
+        "gni": 82000000000.0,
+        "gdp_per_capita": 9000.75,
+        "unemployment_rate": 6.2,
+        "inflation_rate": 5.65,
+        "foreign_direct_investment": 2800000000.0,
+        "export_import_ratio": 0.8,
+        "public_debt_percent_gdp": 48.45
+      },
+      "2025": {
+        "gdp": 72000000000.0,
+        "gni": 87000000000.0,
+        "gdp_per_capita": 9500.25,
+        "unemployment_rate": 5.9,
+        "inflation_rate": 5.4,
+        "foreign_direct_investment": 3100000000.0,
+        "export_import_ratio": 0.82,
+        "public_debt_percent_gdp": 47.75
+      }
+    }
+  },
+  {
+    "city": "Bengaluru",
+    "years": {
+      "2019": {
+        "gdp": 30000000000.0,
+        "gni": 50000000000.0,
+        "gdp_per_capita": 4200.25,
+        "unemployment_rate": 4.45,
+        "inflation_rate": 3.15,
+        "foreign_direct_investment": 1200000000.0,
+        "export_import_ratio": 1.2,
+        "public_debt_percent_gdp": 49.72
+      },
+      "2020": {
+        "gdp": 29000000000.0,
+        "gni": 48000000000.0,
+        "gdp_per_capita": 4100.5,
+        "unemployment_rate": 5.2,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 1100000000.0,
+        "export_import_ratio": 1.18,
+        "public_debt_percent_gdp": 53.15
+      },
+      "2021": {
+        "gdp": 32000000000.0,
+        "gni": 53000000000.0,
+        "gdp_per_capita": 4500.75,
+        "unemployment_rate": 4.3,
+        "inflation_rate": 2.95,
+        "foreign_direct_investment": 1300000000.0,
+        "export_import_ratio": 1.25,
+        "public_debt_percent_gdp": 50.25
+      },
+      "2022": {
+        "gdp": 34474751872.39,
+        "gni": 55472214901.94,
+        "gdp_per_capita": 4732.02,
+        "unemployment_rate": 3.94,
+        "inflation_rate": 2.71,
+        "foreign_direct_investment": 1447713618.93,
+        "export_import_ratio": 1.29,
+        "public_debt_percent_gdp": 51.33
+      },
+      "2023": {
+        "gdp": 37000000000.0,
+        "gni": 59000000000.0,
+        "gdp_per_capita": 5000.3,
+        "unemployment_rate": 3.7,
+        "inflation_rate": 3.05,
+        "foreign_direct_investment": 1600000000.0,
+        "export_import_ratio": 1.32,
+        "public_debt_percent_gdp": 50.1
+      },
+      "2024": {
+        "gdp": 40000000000.0,
+        "gni": 63000000000.0,
+        "gdp_per_capita": 5300.75,
+        "unemployment_rate": 3.5,
+        "inflation_rate": 3.25,
+        "foreign_direct_investment": 1800000000.0,
+        "export_import_ratio": 1.35,
+        "public_debt_percent_gdp": 49.45
+      },
+      "2025": {
+        "gdp": 43000000000.0,
+        "gni": 67000000000.0,
+        "gdp_per_capita": 5600.25,
+        "unemployment_rate": 3.3,
+        "inflation_rate": 3.5,
+        "foreign_direct_investment": 2000000000.0,
+        "export_import_ratio": 1.38,
+        "public_debt_percent_gdp": 48.75
+      }
+    }
+  },
+  {
+    "city": "Hyderabad",
+    "years": {
+      "2019": {
+        "gdp": 80000000000.0,
+        "gni": 24000000000.0,
+        "gdp_per_capita": 6800.25,
+        "unemployment_rate": 5.45,
+        "inflation_rate": 4.15,
+        "foreign_direct_investment": 100000000.0,
+        "export_import_ratio": 0.9,
+        "public_debt_percent_gdp": 50.72
+      },
+      "2020": {
+        "gdp": 82000000000.0,
+        "gni": 25000000000.0,
+        "gdp_per_capita": 6900.5,
+        "unemployment_rate": 6.2,
+        "inflation_rate": 5.25,
+        "foreign_direct_investment": 110000000.0,
+        "export_import_ratio": 0.92,
+        "public_debt_percent_gdp": 54.15
+      },
+      "2021": {
+        "gdp": 85000000000.0,
+        "gni": 26000000000.0,
+        "gdp_per_capita": 7000.75,
+        "unemployment_rate": 5.3,
+        "inflation_rate": 4.95,
+        "foreign_direct_investment": 120000000.0,
+        "export_import_ratio": 0.93,
+        "public_debt_percent_gdp": 51.25
+      },
+      "2022": {
+        "gdp": 87964334519.8,
+        "gni": 26979358359.73,
+        "gdp_per_capita": 7186.25,
+        "unemployment_rate": 4.59,
+        "inflation_rate": 5.23,
+        "foreign_direct_investment": 132946413.1,
+        "export_import_ratio": 0.95,
+        "public_debt_percent_gdp": 52.36
+      },
+      "2023": {
+        "gdp": 91000000000.0,
+        "gni": 28000000000.0,
+        "gdp_per_capita": 7400.3,
+        "unemployment_rate": 4.3,
+        "inflation_rate": 4.85,
+        "foreign_direct_investment": 150000000.0,
+        "export_import_ratio": 0.97,
+        "public_debt_percent_gdp": 51.1
+      },
+      "2024": {
+        "gdp": 95000000000.0,
+        "gni": 30000000000.0,
+        "gdp_per_capita": 7600.75,
+        "unemployment_rate": 4.1,
+        "inflation_rate": 4.65,
+        "foreign_direct_investment": 170000000.0,
+        "export_import_ratio": 0.98,
+        "public_debt_percent_gdp": 50.45
+      },
+      "2025": {
+        "gdp": 99000000000.0,
+        "gni": 32000000000.0,
+        "gdp_per_capita": 7900.25,
+        "unemployment_rate": 3.9,
+        "inflation_rate": 4.4,
+        "foreign_direct_investment": 190000000.0,
+        "export_import_ratio": 1.0,
+        "public_debt_percent_gdp": 49.75
+      }
+    }
+  },
+  {
+    "city": "Ahmedabad",
+    "years": {
+      "2019": {
+        "gdp": 85000000000.0,
+        "gni": 28000000000.0,
+        "gdp_per_capita": 7400.25,
+        "unemployment_rate": 5.45,
+        "inflation_rate": 3.15,
+        "foreign_direct_investment": 1000000000.0,
+        "export_import_ratio": 0.7,
+        "public_debt_percent_gdp": 57.72
+      },
+      "2020": {
+        "gdp": 87000000000.0,
+        "gni": 29000000000.0,
+        "gdp_per_capita": 7500.5,
+        "unemployment_rate": 6.2,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 1100000000.0,
+        "export_import_ratio": 0.72,
+        "public_debt_percent_gdp": 61.15
+      },
+      "2021": {
+        "gdp": 90000000000.0,
+        "gni": 30000000000.0,
+        "gdp_per_capita": 7700.75,
+        "unemployment_rate": 5.3,
+        "inflation_rate": 3.95,
+        "foreign_direct_investment": 1150000000.0,
+        "export_import_ratio": 0.74,
+        "public_debt_percent_gdp": 58.25
+      },
+      "2022": {
+        "gdp": 93120380251.0,
+        "gni": 30721870542.21,
+        "gdp_per_capita": 7840.36,
+        "unemployment_rate": 4.67,
+        "inflation_rate": 4.48,
+        "foreign_direct_investment": 1211594424.84,
+        "export_import_ratio": 0.76,
+        "public_debt_percent_gdp": 59.24
+      },
+      "2023": {
+        "gdp": 96000000000.0,
+        "gni": 32000000000.0,
+        "gdp_per_capita": 8000.3,
+        "unemployment_rate": 4.4,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 1300000000.0,
+        "export_import_ratio": 0.78,
+        "public_debt_percent_gdp": 58.1
+      },
+      "2024": {
+        "gdp": 100000000000.0,
+        "gni": 34000000000.0,
+        "gdp_per_capita": 8300.75,
+        "unemployment_rate": 4.2,
+        "inflation_rate": 4.05,
+        "foreign_direct_investment": 1400000000.0,
+        "export_import_ratio": 0.8,
+        "public_debt_percent_gdp": 57.45
+      },
+      "2025": {
+        "gdp": 104000000000.0,
+        "gni": 36000000000.0,
+        "gdp_per_capita": 8600.25,
+        "unemployment_rate": 4.0,
+        "inflation_rate": 3.8,
+        "foreign_direct_investment": 1500000000.0,
+        "export_import_ratio": 0.82,
+        "public_debt_percent_gdp": 56.75
+      }
+    }
+  },
+  {
+    "city": "Chennai",
+    "years": {
+      "2019": {
+        "gdp": 58000000000.0,
+        "gni": 72000000000.0,
+        "gdp_per_capita": 4200.25,
+        "unemployment_rate": 8.45,
+        "inflation_rate": 2.15,
+        "foreign_direct_investment": 1200000000.0,
+        "export_import_ratio": 0.9,
+        "public_debt_percent_gdp": 60.72
+      },
+      "2020": {
+        "gdp": 60000000000.0,
+        "gni": 75000000000.0,
+        "gdp_per_capita": 4300.5,
+        "unemployment_rate": 9.2,
+        "inflation_rate": 3.25,
+        "foreign_direct_investment": 1300000000.0,
+        "export_import_ratio": 0.92,
+        "public_debt_percent_gdp": 64.15
+      },
+      "2021": {
+        "gdp": 62000000000.0,
+        "gni": 77000000000.0,
+        "gdp_per_capita": 4400.75,
+        "unemployment_rate": 8.3,
+        "inflation_rate": 2.95,
+        "foreign_direct_investment": 1350000000.0,
+        "export_import_ratio": 0.95,
+        "public_debt_percent_gdp": 61.25
+      },
+      "2022": {
+        "gdp": 64241765851.33,
+        "gni": 79361241838.94,
+        "gdp_per_capita": 4580.95,
+        "unemployment_rate": 7.79,
+        "inflation_rate": 3.18,
+        "foreign_direct_investment": 1412123132.67,
+        "export_import_ratio": 0.97,
+        "public_debt_percent_gdp": 62.49
+      },
+      "2023": {
+        "gdp": 67000000000.0,
+        "gni": 82000000000.0,
+        "gdp_per_capita": 4800.3,
+        "unemployment_rate": 7.5,
+        "inflation_rate": 3.25,
+        "foreign_direct_investment": 1500000000.0,
+        "export_import_ratio": 0.99,
+        "public_debt_percent_gdp": 61.1
+      },
+      "2024": {
+        "gdp": 70000000000.0,
+        "gni": 85000000000.0,
+        "gdp_per_capita": 5000.75,
+        "unemployment_rate": 7.2,
+        "inflation_rate": 3.45,
+        "foreign_direct_investment": 1600000000.0,
+        "export_import_ratio": 1.01,
+        "public_debt_percent_gdp": 60.45
+      },
+      "2025": {
+        "gdp": 73000000000.0,
+        "gni": 88000000000.0,
+        "gdp_per_capita": 5200.25,
+        "unemployment_rate": 6.9,
+        "inflation_rate": 3.7,
+        "foreign_direct_investment": 1700000000.0,
+        "export_import_ratio": 1.03,
+        "public_debt_percent_gdp": 59.75
+      }
+    }
+  },
+  {
+    "city": "Kolkata",
+    "years": {
+      "2019": {
+        "gdp": 11000000000.0,
+        "gni": 72000000000.0,
+        "gdp_per_capita": 5400.25,
+        "unemployment_rate": 12.45,
+        "inflation_rate": 2.15,
+        "foreign_direct_investment": 2500000000.0,
+        "export_import_ratio": 0.5,
+        "public_debt_percent_gdp": 66.72
+      },
+      "2020": {
+        "gdp": 11500000000.0,
+        "gni": 74000000000.0,
+        "gdp_per_capita": 5500.5,
+        "unemployment_rate": 13.2,
+        "inflation_rate": 3.25,
+        "foreign_direct_investment": 2600000000.0,
+        "export_import_ratio": 0.51,
+        "public_debt_percent_gdp": 70.15
+      },
+      "2021": {
+        "gdp": 12000000000.0,
+        "gni": 75000000000.0,
+        "gdp_per_capita": 5600.75,
+        "unemployment_rate": 12.3,
+        "inflation_rate": 2.95,
+        "foreign_direct_investment": 2650000000.0,
+        "export_import_ratio": 0.52,
+        "public_debt_percent_gdp": 67.25
+      },
+      "2022": {
+        "gdp": 12787991959.13,
+        "gni": 76797322048.19,
+        "gdp_per_capita": 5785.4,
+        "unemployment_rate": 11.78,
+        "inflation_rate": 3.32,
+        "foreign_direct_investment": 2729543341.85,
+        "export_import_ratio": 0.53,
+        "public_debt_percent_gdp": 68.69
+      },
+      "2023": {
+        "gdp": 13500000000.0,
+        "gni": 79000000000.0,
+        "gdp_per_capita": 6000.3,
+        "unemployment_rate": 11.5,
+        "inflation_rate": 3.25,
+        "foreign_direct_investment": 2800000000.0,
+        "export_import_ratio": 0.55,
+        "public_debt_percent_gdp": 67.1
+      },
+      "2024": {
+        "gdp": 14000000000.0,
+        "gni": 81000000000.0,
+        "gdp_per_capita": 6200.75,
+        "unemployment_rate": 11.2,
+        "inflation_rate": 3.45,
+        "foreign_direct_investment": 2900000000.0,
+        "export_import_ratio": 0.57,
+        "public_debt_percent_gdp": 66.45
+      },
+      "2025": {
+        "gdp": 14500000000.0,
+        "gni": 83000000000.0,
+        "gdp_per_capita": 6400.25,
+        "unemployment_rate": 10.9,
+        "inflation_rate": 3.7,
+        "foreign_direct_investment": 3000000000.0,
+        "export_import_ratio": 0.59,
+        "public_debt_percent_gdp": 65.75
+      }
+    }
+  },
+  {
+    "city": "Pune",
+    "years": {
+      "2019": {
+        "gdp": 32000000000.0,
+        "gni": 13000000000.0,
+        "gdp_per_capita": 2400.25,
+        "unemployment_rate": 4.45,
+        "inflation_rate": 3.15,
+        "foreign_direct_investment": 600000000.0,
+        "export_import_ratio": 0.8,
+        "public_debt_percent_gdp": 27.72
+      },
+      "2020": {
+        "gdp": 33000000000.0,
+        "gni": 13500000000.0,
+        "gdp_per_capita": 2450.5,
+        "unemployment_rate": 5.2,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 650000000.0,
+        "export_import_ratio": 0.81,
+        "public_debt_percent_gdp": 31.15
+      },
+      "2021": {
+        "gdp": 34000000000.0,
+        "gni": 14000000000.0,
+        "gdp_per_capita": 2500.75,
+        "unemployment_rate": 4.3,
+        "inflation_rate": 3.95,
+        "foreign_direct_investment": 680000000.0,
+        "export_import_ratio": 0.82,
+        "public_debt_percent_gdp": 28.25
+      },
+      "2022": {
+        "gdp": 35667005073.95,
+        "gni": 14956866178.96,
+        "gdp_per_capita": 2648.18,
+        "unemployment_rate": 4.14,
+        "inflation_rate": 4.84,
+        "foreign_direct_investment": 716300814.94,
+        "export_import_ratio": 0.83,
+        "public_debt_percent_gdp": 29.7
+      },
+      "2023": {
+        "gdp": 37000000000.0,
+        "gni": 15500000000.0,
+        "gdp_per_capita": 2750.3,
+        "unemployment_rate": 4.0,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 750000000.0,
+        "export_import_ratio": 0.85,
+        "public_debt_percent_gdp": 28.1
+      },
+      "2024": {
+        "gdp": 39000000000.0,
+        "gni": 16000000000.0,
+        "gdp_per_capita": 2900.75,
+        "unemployment_rate": 3.8,
+        "inflation_rate": 4.05,
+        "foreign_direct_investment": 800000000.0,
+        "export_import_ratio": 0.87,
+        "public_debt_percent_gdp": 27.45
+      },
+      "2025": {
+        "gdp": 41000000000.0,
+        "gni": 17000000000.0,
+        "gdp_per_capita": 3050.25,
+        "unemployment_rate": 3.6,
+        "inflation_rate": 3.8,
+        "foreign_direct_investment": 850000000.0,
+        "export_import_ratio": 0.89,
+        "public_debt_percent_gdp": 26.75
+      }
+    }
+  },
+  {
+    "city": "Jaipur",
+    "years": {
+      "2019": {
+        "gdp": 70000000000.0,
+        "gni": 65000000000.0,
+        "gdp_per_capita": 8200.25,
+        "unemployment_rate": 11.45,
+        "inflation_rate": 3.15,
+        "foreign_direct_investment": 700000000.0,
+        "export_import_ratio": 0.6,
+        "public_debt_percent_gdp": 80.72
+      },
+      "2020": {
+        "gdp": 72000000000.0,
+        "gni": 67000000000.0,
+        "gdp_per_capita": 8300.5,
+        "unemployment_rate": 12.2,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 750000000.0,
+        "export_import_ratio": 0.61,
+        "public_debt_percent_gdp": 84.15
+      },
+      "2021": {
+        "gdp": 74000000000.0,
+        "gni": 68000000000.0,
+        "gdp_per_capita": 8400.75,
+        "unemployment_rate": 11.3,
+        "inflation_rate": 3.95,
+        "foreign_direct_investment": 780000000.0,
+        "export_import_ratio": 0.615,
+        "public_debt_percent_gdp": 81.25
+      },
+      "2022": {
+        "gdp": 76507365929.58,
+        "gni": 69460523821.3,
+        "gdp_per_capita": 8659.29,
+        "unemployment_rate": 10.76,
+        "inflation_rate": 4.77,
+        "foreign_direct_investment": 812187310.15,
+        "export_import_ratio": 0.62,
+        "public_debt_percent_gdp": 82.31
+      },
+      "2023": {
+        "gdp": 79000000000.0,
+        "gni": 71000000000.0,
+        "gdp_per_capita": 8900.3,
+        "unemployment_rate": 10.5,
+        "inflation_rate": 4.25,
+        "foreign_direct_investment": 850000000.0,
+        "export_import_ratio": 0.63,
+        "public_debt_percent_gdp": 81.1
+      },
+      "2024": {
+        "gdp": 82000000000.0,
+        "gni": 73000000000.0,
+        "gdp_per_capita": 9200.75,
+        "unemployment_rate": 10.2,
+        "inflation_rate": 4.05,
+        "foreign_direct_investment": 900000000.0,
+        "export_import_ratio": 0.64,
+        "public_debt_percent_gdp": 80.45
+      },
+      "2025": {
+        "gdp": 85000000000.0,
+        "gni": 75000000000.0,
+        "gdp_per_capita": 9500.25,
+        "unemployment_rate": 9.9,
+        "inflation_rate": 3.8,
+        "foreign_direct_investment": 950000000.0,
+        "export_import_ratio": 0.65,
+        "public_debt_percent_gdp": 79.75
+      }
+    }
+  },
+  {
+    "city": "Lucknow",
+    "years": {
+      "2019": {
+        "gdp": 20000000000.0,
+        "gni": 58000000000.0,
+        "gdp_per_capita": 1700.25,
+        "unemployment_rate": 8.45,
+        "inflation_rate": 5.15,
+        "foreign_direct_investment": 700000000.0,
+        "export_import_ratio": 1.3,
+        "public_debt_percent_gdp": 30.72
+      },
+      "2020": {
+        "gdp": 21000000000.0,
+        "gni": 60000000000.0,
+        "gdp_per_capita": 1750.5,
+        "unemployment_rate": 9.2,
+        "inflation_rate": 6.25,
+        "foreign_direct_investment": 750000000.0,
+        "export_import_ratio": 1.32,
+        "public_debt_percent_gdp": 34.15
+      },
+      "2021": {
+        "gdp": 22000000000.0,
+        "gni": 61000000000.0,
+        "gdp_per_capita": 1800.75,
+        "unemployment_rate": 8.3,
+        "inflation_rate": 5.95,
+        "foreign_direct_investment": 800000000.0,
+        "export_import_ratio": 1.35,
+        "public_debt_percent_gdp": 31.25
+      },
+      "2022": {
+        "gdp": 23014872074.84,
+        "gni": 62429202902.6,
+        "gdp_per_capita": 1909.79,
+        "unemployment_rate": 8.11,
+        "inflation_rate": 7.02,
+        "foreign_direct_investment": 841110489.13,
+        "export_import_ratio": 1.37,
+        "public_debt_percent_gdp": 31.92
+      },
+      "2023": {
+        "gdp": 24000000000.0,
+        "gni": 64000000000.0,
+        "gdp_per_capita": 2000.3,
+        "unemployment_rate": 7.9,
+        "inflation_rate": 5.85,
+        "foreign_direct_investment": 900000000.0,
+        "export_import_ratio": 1.39,
+        "public_debt_percent_gdp": 30.1
+      },
+      "2024": {
+        "gdp": 25000000000.0,
+        "gni": 66000000000.0,
+        "gdp_per_capita": 2100.75,
+        "unemployment_rate": 7.7,
+        "inflation_rate": 5.65,
+        "foreign_direct_investment": 950000000.0,
+        "export_import_ratio": 1.41,
+        "public_debt_percent_gdp": 29.45
+      },
+      "2025": {
+        "gdp": 26000000000.0,
+        "gni": 68000000000.0,
+        "gdp_per_capita": 2200.25,
+        "unemployment_rate": 7.5,
+        "inflation_rate": 5.4,
+        "foreign_direct_investment": 1000000000.0,
+        "export_import_ratio": 1.43,
+        "public_debt_percent_gdp": 28.75
+      }
+    }
+  }
+]

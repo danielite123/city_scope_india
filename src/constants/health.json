@@ -1,0 +1,542 @@
+[
+  {
+    "city": "Delhi",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 720.45,
+        "physicians_per_1000": 0.52,
+        "hospital_beds_per_1000": 2.1,
+        "access_to_clean_water_percent": 97.5,
+        "vaccination_coverage_percent": 88.3
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 745.12,
+        "physicians_per_1000": 0.55,
+        "hospital_beds_per_1000": 2.15,
+        "access_to_clean_water_percent": 98.0,
+        "vaccination_coverage_percent": 89.2
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 768.89,
+        "physicians_per_1000": 0.58,
+        "hospital_beds_per_1000": 2.2,
+        "access_to_clean_water_percent": 98.3,
+        "vaccination_coverage_percent": 89.8
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 790.34,
+        "physicians_per_1000": 0.6,
+        "hospital_beds_per_1000": 2.25,
+        "access_to_clean_water_percent": 98.7,
+        "vaccination_coverage_percent": 90.2
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 815.72,
+        "physicians_per_1000": 0.63,
+        "hospital_beds_per_1000": 2.3,
+        "access_to_clean_water_percent": 99.0,
+        "vaccination_coverage_percent": 90.8
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 842.1,
+        "physicians_per_1000": 0.65,
+        "hospital_beds_per_1000": 2.35,
+        "access_to_clean_water_percent": 99.2,
+        "vaccination_coverage_percent": 91.3
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 870.5,
+        "physicians_per_1000": 0.68,
+        "hospital_beds_per_1000": 2.4,
+        "access_to_clean_water_percent": 99.5,
+        "vaccination_coverage_percent": 91.9
+      }
+    }
+  },
+  {
+    "city": "Mumbai",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 680.25,
+        "physicians_per_1000": 2.6,
+        "hospital_beds_per_1000": 0.95,
+        "access_to_clean_water_percent": 87.5,
+        "vaccination_coverage_percent": 85.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 700.12,
+        "physicians_per_1000": 2.68,
+        "hospital_beds_per_1000": 1.0,
+        "access_to_clean_water_percent": 88.3,
+        "vaccination_coverage_percent": 86.0
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 720.89,
+        "physicians_per_1000": 2.74,
+        "hospital_beds_per_1000": 1.03,
+        "access_to_clean_water_percent": 89.1,
+        "vaccination_coverage_percent": 86.9
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 734.57,
+        "physicians_per_1000": 2.79,
+        "hospital_beds_per_1000": 1.07,
+        "access_to_clean_water_percent": 89.9,
+        "vaccination_coverage_percent": 87.8
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 752.34,
+        "physicians_per_1000": 2.85,
+        "hospital_beds_per_1000": 1.12,
+        "access_to_clean_water_percent": 90.5,
+        "vaccination_coverage_percent": 88.6
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 771.2,
+        "physicians_per_1000": 2.9,
+        "hospital_beds_per_1000": 1.17,
+        "access_to_clean_water_percent": 91.2,
+        "vaccination_coverage_percent": 89.4
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 791.15,
+        "physicians_per_1000": 2.96,
+        "hospital_beds_per_1000": 1.22,
+        "access_to_clean_water_percent": 91.8,
+        "vaccination_coverage_percent": 90.2
+      }
+    }
+  },
+  {
+    "city": "Bengaluru",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 130.5,
+        "physicians_per_1000": 1.65,
+        "hospital_beds_per_1000": 1.1,
+        "access_to_clean_water_percent": 74.0,
+        "vaccination_coverage_percent": 82.0
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 138.72,
+        "physicians_per_1000": 1.72,
+        "hospital_beds_per_1000": 1.15,
+        "access_to_clean_water_percent": 75.2,
+        "vaccination_coverage_percent": 83.1
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 145.89,
+        "physicians_per_1000": 1.78,
+        "hospital_beds_per_1000": 1.2,
+        "access_to_clean_water_percent": 76.3,
+        "vaccination_coverage_percent": 84.2
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 151.99,
+        "physicians_per_1000": 1.82,
+        "hospital_beds_per_1000": 1.26,
+        "access_to_clean_water_percent": 77.3,
+        "vaccination_coverage_percent": 85.3
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 160.25,
+        "physicians_per_1000": 1.88,
+        "hospital_beds_per_1000": 1.32,
+        "access_to_clean_water_percent": 78.2,
+        "vaccination_coverage_percent": 86.3
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 168.7,
+        "physicians_per_1000": 1.94,
+        "hospital_beds_per_1000": 1.38,
+        "access_to_clean_water_percent": 79.1,
+        "vaccination_coverage_percent": 87.2
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 177.35,
+        "physicians_per_1000": 2.0,
+        "hospital_beds_per_1000": 1.45,
+        "access_to_clean_water_percent": 80.0,
+        "vaccination_coverage_percent": 88.1
+      }
+    }
+  },
+  {
+    "city": "Hyderabad",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 520.45,
+        "physicians_per_1000": 2.5,
+        "hospital_beds_per_1000": 0.6,
+        "access_to_clean_water_percent": 74.5,
+        "vaccination_coverage_percent": 70.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 540.12,
+        "physicians_per_1000": 2.58,
+        "hospital_beds_per_1000": 0.63,
+        "access_to_clean_water_percent": 75.5,
+        "vaccination_coverage_percent": 71.5
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 560.89,
+        "physicians_per_1000": 2.63,
+        "hospital_beds_per_1000": 0.67,
+        "access_to_clean_water_percent": 76.5,
+        "vaccination_coverage_percent": 72.8
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 571.76,
+        "physicians_per_1000": 2.67,
+        "hospital_beds_per_1000": 0.7,
+        "access_to_clean_water_percent": 77.6,
+        "vaccination_coverage_percent": 74.0
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 590.34,
+        "physicians_per_1000": 2.73,
+        "hospital_beds_per_1000": 0.74,
+        "access_to_clean_water_percent": 78.5,
+        "vaccination_coverage_percent": 75.2
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 610.02,
+        "physicians_per_1000": 2.79,
+        "hospital_beds_per_1000": 0.78,
+        "access_to_clean_water_percent": 79.4,
+        "vaccination_coverage_percent": 76.3
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 630.8,
+        "physicians_per_1000": 2.85,
+        "hospital_beds_per_1000": 0.82,
+        "access_to_clean_water_percent": 80.3,
+        "vaccination_coverage_percent": 77.4
+      }
+    }
+  },
+  {
+    "city": "Ahmedabad",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 340.25,
+        "physicians_per_1000": 2.05,
+        "hospital_beds_per_1000": 4.5,
+        "access_to_clean_water_percent": 71.0,
+        "vaccination_coverage_percent": 66.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 350.12,
+        "physicians_per_1000": 2.12,
+        "hospital_beds_per_1000": 4.6,
+        "access_to_clean_water_percent": 72.3,
+        "vaccination_coverage_percent": 67.5
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 360.89,
+        "physicians_per_1000": 2.18,
+        "hospital_beds_per_1000": 4.68,
+        "access_to_clean_water_percent": 73.5,
+        "vaccination_coverage_percent": 68.6
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 372.72,
+        "physicians_per_1000": 2.22,
+        "hospital_beds_per_1000": 4.77,
+        "access_to_clean_water_percent": 74.7,
+        "vaccination_coverage_percent": 69.7
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 385.64,
+        "physicians_per_1000": 2.28,
+        "hospital_beds_per_1000": 4.85,
+        "access_to_clean_water_percent": 75.8,
+        "vaccination_coverage_percent": 70.8
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 399.66,
+        "physicians_per_1000": 2.34,
+        "hospital_beds_per_1000": 4.94,
+        "access_to_clean_water_percent": 76.9,
+        "vaccination_coverage_percent": 71.9
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 414.78,
+        "physicians_per_1000": 2.4,
+        "hospital_beds_per_1000": 5.03,
+        "access_to_clean_water_percent": 78.0,
+        "vaccination_coverage_percent": 73.0
+      }
+    }
+  },
+  {
+    "city": "Chennai",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 380.25,
+        "physicians_per_1000": 2.5,
+        "hospital_beds_per_1000": 0.45,
+        "access_to_clean_water_percent": 70.0,
+        "vaccination_coverage_percent": 77.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 390.12,
+        "physicians_per_1000": 2.58,
+        "hospital_beds_per_1000": 0.48,
+        "access_to_clean_water_percent": 71.2,
+        "vaccination_coverage_percent": 78.3
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 400.89,
+        "physicians_per_1000": 2.64,
+        "hospital_beds_per_1000": 0.52,
+        "access_to_clean_water_percent": 72.2,
+        "vaccination_coverage_percent": 79.2
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 413.82,
+        "physicians_per_1000": 2.69,
+        "hospital_beds_per_1000": 0.56,
+        "access_to_clean_water_percent": 73.1,
+        "vaccination_coverage_percent": 80.1
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 427.85,
+        "physicians_per_1000": 2.75,
+        "hospital_beds_per_1000": 0.6,
+        "access_to_clean_water_percent": 74.0,
+        "vaccination_coverage_percent": 81.0
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 442.98,
+        "physicians_per_1000": 2.81,
+        "hospital_beds_per_1000": 0.64,
+        "access_to_clean_water_percent": 74.9,
+        "vaccination_coverage_percent": 81.9
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 459.21,
+        "physicians_per_1000": 2.87,
+        "hospital_beds_per_1000": 0.68,
+        "access_to_clean_water_percent": 75.8,
+        "vaccination_coverage_percent": 82.8
+      }
+    }
+  },
+  {
+    "city": "Kolkata",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 820.45,
+        "physicians_per_1000": 2.3,
+        "hospital_beds_per_1000": 2.2,
+        "access_to_clean_water_percent": 90.5,
+        "vaccination_coverage_percent": 72.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 840.12,
+        "physicians_per_1000": 2.35,
+        "hospital_beds_per_1000": 2.25,
+        "access_to_clean_water_percent": 91.3,
+        "vaccination_coverage_percent": 73.5
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 870.89,
+        "physicians_per_1000": 2.4,
+        "hospital_beds_per_1000": 2.32,
+        "access_to_clean_water_percent": 92.2,
+        "vaccination_coverage_percent": 74.4
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 894.12,
+        "physicians_per_1000": 2.43,
+        "hospital_beds_per_1000": 2.38,
+        "access_to_clean_water_percent": 93.0,
+        "vaccination_coverage_percent": 75.3
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 920.45,
+        "physicians_per_1000": 2.48,
+        "hospital_beds_per_1000": 2.45,
+        "access_to_clean_water_percent": 93.7,
+        "vaccination_coverage_percent": 76.2
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 947.88,
+        "physicians_per_1000": 2.53,
+        "hospital_beds_per_1000": 2.52,
+        "access_to_clean_water_percent": 94.4,
+        "vaccination_coverage_percent": 77.1
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 976.41,
+        "physicians_per_1000": 2.58,
+        "hospital_beds_per_1000": 2.59,
+        "access_to_clean_water_percent": 95.1,
+        "vaccination_coverage_percent": 78.0
+      }
+    }
+  },
+  {
+    "city": "Pune",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 160.25,
+        "physicians_per_1000": 1.1,
+        "hospital_beds_per_1000": 3.8,
+        "access_to_clean_water_percent": 86.5,
+        "vaccination_coverage_percent": 67.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 165.12,
+        "physicians_per_1000": 1.16,
+        "hospital_beds_per_1000": 3.88,
+        "access_to_clean_water_percent": 87.3,
+        "vaccination_coverage_percent": 68.3
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 170.89,
+        "physicians_per_1000": 1.21,
+        "hospital_beds_per_1000": 3.95,
+        "access_to_clean_water_percent": 88.2,
+        "vaccination_coverage_percent": 69.4
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 179.86,
+        "physicians_per_1000": 1.25,
+        "hospital_beds_per_1000": 4.03,
+        "access_to_clean_water_percent": 89.0,
+        "vaccination_coverage_percent": 70.5
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 185.73,
+        "physicians_per_1000": 1.3,
+        "hospital_beds_per_1000": 4.1,
+        "access_to_clean_water_percent": 89.7,
+        "vaccination_coverage_percent": 71.6
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 192.7,
+        "physicians_per_1000": 1.35,
+        "hospital_beds_per_1000": 4.18,
+        "access_to_clean_water_percent": 90.4,
+        "vaccination_coverage_percent": 72.7
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 200.77,
+        "physicians_per_1000": 1.4,
+        "hospital_beds_per_1000": 4.26,
+        "access_to_clean_water_percent": 91.1,
+        "vaccination_coverage_percent": 73.8
+      }
+    }
+  },
+  {
+    "city": "Jaipur",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 670.45,
+        "physicians_per_1000": 0.6,
+        "hospital_beds_per_1000": 2.7,
+        "access_to_clean_water_percent": 70.0,
+        "vaccination_coverage_percent": 65.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 680.12,
+        "physicians_per_1000": 0.64,
+        "hospital_beds_per_1000": 2.78,
+        "access_to_clean_water_percent": 71.0,
+        "vaccination_coverage_percent": 66.3
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 700.89,
+        "physicians_per_1000": 0.68,
+        "hospital_beds_per_1000": 2.86,
+        "access_to_clean_water_percent": 72.0,
+        "vaccination_coverage_percent": 67.3
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 717.94,
+        "physicians_per_1000": 0.71,
+        "hospital_beds_per_1000": 2.95,
+        "access_to_clean_water_percent": 73.1,
+        "vaccination_coverage_percent": 68.4
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 735.99,
+        "physicians_per_1000": 0.75,
+        "hospital_beds_per_1000": 3.04,
+        "access_to_clean_water_percent": 74.1,
+        "vaccination_coverage_percent": 69.5
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 755.14,
+        "physicians_per_1000": 0.79,
+        "hospital_beds_per_1000": 3.13,
+        "access_to_clean_water_percent": 75.1,
+        "vaccination_coverage_percent": 70.6
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 775.39,
+        "physicians_per_1000": 0.83,
+        "hospital_beds_per_1000": 3.22,
+        "access_to_clean_water_percent": 76.1,
+        "vaccination_coverage_percent": 71.7
+      }
+    }
+  },
+  {
+    "city": "Lucknow",
+    "years": {
+      "2019": {
+        "healthcare_expenditure_per_capita": 350.25,
+        "physicians_per_1000": 2.75,
+        "hospital_beds_per_1000": 4.3,
+        "access_to_clean_water_percent": 67.0,
+        "vaccination_coverage_percent": 89.2
+      },
+      "2020": {
+        "healthcare_expenditure_per_capita": 360.12,
+        "physicians_per_1000": 2.82,
+        "hospital_beds_per_1000": 4.4,
+        "access_to_clean_water_percent": 68.2,
+        "vaccination_coverage_percent": 90.0
+      },
+      "2021": {
+        "healthcare_expenditure_per_capita": 370.89,
+        "physicians_per_1000": 2.88,
+        "hospital_beds_per_1000": 4.48,
+        "access_to_clean_water_percent": 69.3,
+        "vaccination_coverage_percent": 91.0
+      },
+      "2022": {
+        "healthcare_expenditure_per_capita": 385.46,
+        "physicians_per_1000": 2.94,
+        "hospital_beds_per_1000": 4.58,
+        "access_to_clean_water_percent": 70.3,
+        "vaccination_coverage_percent": 92.0
+      },
+      "2023": {
+        "healthcare_expenditure_per_capita": 400.03,
+        "physicians_per_1000": 3.0,
+        "hospital_beds_per_1000": 4.68,
+        "access_to_clean_water_percent": 71.3,
+        "vaccination_coverage_percent": 92.8
+      },
+      "2024": {
+        "healthcare_expenditure_per_capita": 415.7,
+        "physicians_per_1000": 3.06,
+        "hospital_beds_per_1000": 4.78,
+        "access_to_clean_water_percent": 72.3,
+        "vaccination_coverage_percent": 93.6
+      },
+      "2025": {
+        "healthcare_expenditure_per_capita": 432.47,
+        "physicians_per_1000": 3.12,
+        "hospital_beds_per_1000": 4.88,
+        "access_to_clean_water_percent": 73.3,
+        "vaccination_coverage_percent": 94.4
+      }
+    }
+  }
+]

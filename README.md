@@ -28,7 +28,7 @@
 ### Installation
 ```bash
 # Clone and navigate to project
-cd submissions/city_scope_indi
+cd submissions/city_scope_india
 
 # Install dependencies
 npm install

@@ -1,4 +1,4 @@
-# CityScope India.
+# CityScope India
 *Submitted by: Daniel Favour*
 
 ## 🌟 Live Demo
@@ -10,9 +10,9 @@
 ![Mobile View](./demo-images/mobile-view.png)
 
 ## 🛠️ Tech Stack
-- Frontend: NextJs.
-- Visualization: Echarts.
-- Deployment: Vercel.
+- Frontend: NextJs
+- Visualization: Echarts
+- Deployment: Vercel
 
 ## ✨ Unique Features
 - **[Feature 1]**: Brief description of what makes it special
